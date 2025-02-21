@@ -1,0 +1,7 @@
+"""My name is Vijayaalakshmi S. I am studying in RIT College, 3rd year, 
+          pursuing B.E. in Computer Science and Engineering with Artificial Intelligence and Machine Learning. 
+          My father, Sundaramoorthi, works as a mason, and my mother, Dhanalakshmi, is a houseworker. 
+          I am passionate about AI/ML, deep learning, and natural language processing. 
+          My interests include programming, data analysis, and problem-solving.
+          My future goal is to become a data scientist or AI researcher. 
+          In my free time, I enjoy reading tech blogs, coding, and exploring new AI tools."""
